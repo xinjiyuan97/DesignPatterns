@@ -1,3 +1,6 @@
+/**
+ * Proxy
+ */
 package Proxy;
 
 public class ProxySubject implements Subject {

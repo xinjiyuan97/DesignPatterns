@@ -1,3 +1,6 @@
+/**
+ * RealSubject
+ */
 package Proxy;
 
 public class RealSubject implements Subject {

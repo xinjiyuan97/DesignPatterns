@@ -1,3 +1,7 @@
+/**
+ * Proxy
+ */
+
 package ProxyJDK;
 
 import java.lang.reflect.InvocationHandler;

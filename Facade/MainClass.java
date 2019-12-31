@@ -1,3 +1,6 @@
+/**
+ * Subclass Subject
+ */
 package Facade;
 
 public class MainClass {

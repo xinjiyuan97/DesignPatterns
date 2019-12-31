@@ -1,3 +1,6 @@
+/**
+ * Facade
+ */
 package Facade;
 
 public class Facade {
